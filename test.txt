@@ -2,4 +2,8 @@
 
 ----Đây là phần sửa của new branch feature/test-pr----
 
+<<<<<<< HEAD
+----Đây là phần branch main để tạo conflict với branch feature/test-pr----
+=======
 ----Đây là phần chỉnh sửa để tạo conflict của branch feature/test-pr----
+>>>>>>> feature/test-pr
