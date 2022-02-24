@@ -1,1 +1,5 @@
 Đây là nội dung của bài test1
+
+----Đây là phần sửa của new branch feature/test-pr----
+
+----Đây là phần branch main để tạo conflict với branch feature/test-pr----
